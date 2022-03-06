@@ -1,0 +1,16 @@
+#Hébergements {
+    width:60%;
+}
+
+#populaires{
+    width:40%;
+}
+
+#hotels a{
+    width:40%;
+    
+}
+
+main{
+    max-height: fit-content;
+}
